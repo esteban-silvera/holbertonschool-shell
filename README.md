@@ -1,1 +1,0 @@
-Repositorio de git para shell.
