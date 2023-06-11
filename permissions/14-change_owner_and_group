@@ -1,2 +1,2 @@
 #!/bin/bash
-finde -type d -exec chown vincent chgrp staff {} +
+chown vincent chgrp staff
