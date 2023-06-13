@@ -1,2 +1,2 @@
 #!/bin/bash
-IFS=":" directories=($PATH): echo ${#directories[@]}
+IFS=":" directories=($PATH) | echo ${#directories[@]}
