@@ -1,2 +1,2 @@
 #!/bin/bash
-set | grep -v '() {' | awk -F '=' '{print $1}'
+compgen -A variable -A function
